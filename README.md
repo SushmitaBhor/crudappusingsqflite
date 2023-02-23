@@ -1,4 +1,4 @@
-# simplified_singleton
+# sqflite  example to CRUD operation on local database in flutter 
 
 A new Flutter project.
 
